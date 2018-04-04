@@ -1,0 +1,13 @@
+E:\pav\TPI_G8\TPI_G8\bin\Debug\TPI_G8.exe.config
+E:\pav\TPI_G8\TPI_G8\bin\Debug\TPI_G8.exe
+E:\pav\TPI_G8\TPI_G8\bin\Debug\TPI_G8.pdb
+E:\pav\TPI_G8\TPI_G8\bin\Debug\TPI_G8.xml
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.vbprojResolveAssemblyReference.cache
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.Form1.resources
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.Resources.resources
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.VentanaAfiliado.resources
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.vbproj.GenerateResource.cache
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.vbproj.CoreCompileInputs.cache
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.exe
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.xml
+E:\pav\TPI_G8\TPI_G8\obj\Debug\TPI_G8.pdb
