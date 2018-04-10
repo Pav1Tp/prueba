@@ -1,0 +1,41 @@
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.exe.config
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.exe
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.pdb
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.xml
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.AltaAlumno.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Form1.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Resources.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbproj.GenerateResource.Cache
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.exe
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.xml
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.pdb
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.exe.config
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.exe
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.pdb
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.xml
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.AltaAlumno.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Consulta.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Form1.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Resources.resources
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbproj.GenerateResource.Cache
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbproj.CoreCompileInputs.cache
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.exe
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.xml
+C:\Users\Nico\OneDrive\NICO\UTN\PAV 1\2018\1er Cuatrimestre\3K7\4° - 10-04-18\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.pdb
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.exe.config
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.exe
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.pdb
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\bin\Debug\ABMCompleto.xml
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbprojResolveAssemblyReference.cache
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.AltaAlumno.resources
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Consulta.resources
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Form1.resources
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.Resources.resources
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbproj.GenerateResource.Cache
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.vbproj.CoreCompileInputs.cache
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.exe
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.xml
+D:\Material para los alumnos\ABMCompleto\ABMCompleto\obj\Debug\ABMCompleto.pdb
